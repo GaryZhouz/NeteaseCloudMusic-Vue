@@ -8,7 +8,7 @@
 
 - [B站预览]( https://www.bilibili.com/video/BV1NC4y1b7eL)
 图片预览在楼下
-- [Github地址](https://github.com/wzz1206414629/vue_wzz_cloudMusic)
+- [码云地址](https://gitee.com/wzhouzhou/vue_wzz_cloudMusic)
 - [API地址](https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=neteasecloudmusicapi)
 
 ## 技术栈
