@@ -247,8 +247,8 @@ import SearchPage from "./findMusic/search/SearchPage";
                 loginDialogVisible: false,
                 //登录的信息
                 loginInfo: {
-                    phone: '13972329133',
-                    password: 'a07166224974'
+                    phone: '',
+                    password: ''
                 },
                 //登录的校验规则
                 loginInfoRules: {
