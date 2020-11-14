@@ -5,7 +5,7 @@
 仅供个人学习~!
 
 `请务必将文档看完, 很多问题都可以在文档中找到解决, 也可以加入群一起交流, 群号: 970804317 下面也会有二维码`
-
+- # [ :point_right: 线上体验](http://wzzz.fun/)
 - [B站预览]( https://www.bilibili.com/video/BV1NC4y1b7eL)
 图片预览在楼下
 - [码云地址](https://gitee.com/wzhouzhou/vue_wzz_cloudMusic)
