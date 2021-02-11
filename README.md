@@ -11,6 +11,12 @@
 - [码云地址](https://gitee.com/wzhouzhou/vue_wzz_cloudMusic)
 - [API地址](https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=neteasecloudmusicapi)
 
+# `最新版本更新日志(github由于国内速度太慢,最新版本请移至码云上!)`
+- 2021/02/12 12:00
+    1. 修复部分主页面BUG的UI
+    2. 修复播放详情页UI
+    3. 修复一些已知BUG
+
 ## 技术栈
 
 > 1. VueCli
